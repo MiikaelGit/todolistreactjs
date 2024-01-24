@@ -6,7 +6,7 @@ O Design é adaptado para vários tamanhos de telas.
 - marcar as tarefas concluídas na lista;
 - apagar as tarefas;
 - 3 contadores na parte superior que mostram em tempo real respectivamente o **Total de Tarefas**, as **Tarefas Pendentes** e as **Tarefas Concluídas**.
-
+### Links
 - [Layaout de inspiração](https://whimsical.com/mytodo-K6yrqHmjiKpPz16gm4kcGP)
 
 - [Link da aplicação](https://todolistreactjs-six.vercel.app/)
