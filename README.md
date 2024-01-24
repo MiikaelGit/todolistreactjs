@@ -5,7 +5,7 @@ O Design é adaptado para vários tamanhos de telas.
 ## A aplicação ainda conta com as seguintes funcionalidades: 
 - Marcar as tarefas como concluídas na lista;
 - Apagar tarefas;
-- 3 contadores na parte superior que mostram em tempo real respectivamente o **Total de Tarefas**, as **Tarefas Pendentes** e as **Tarefas Concluídas**.
+- 3 contadores na parte superior que mostram em tempo real, respectivamente o **Total de Tarefas**, as **Tarefas Pendentes** e as **Tarefas Concluídas**.
 ### Links
 - [Layaout de inspiração](https://whimsical.com/mytodo-K6yrqHmjiKpPz16gm4kcGP)
 
